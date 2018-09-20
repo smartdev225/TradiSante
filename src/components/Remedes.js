@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import {Container, Text} from 'native-base'
 
-export default class Maladies extends Component {
+export default class Remedes extends Component {
 
   render() {
     return (
