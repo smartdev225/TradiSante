@@ -10,8 +10,8 @@
     "native-base": "^2.8.0",
     "react": "16.5.0",
     "react-native": "0.57.0",
-    "react-native-router-flux": "^4.0.1",
-    "react-navigation": "^2.14.2"
+    "react-native-easy-grid": "^0.2.0",
+    "react-native-router-flux": "^4.0.1"
   },
   "devDependencies": {
     "babel-jest": "23.6.0",
