@@ -9,7 +9,9 @@ const Styles = StyleSheet.create({
     alignContent:'center',
     flexDirection: 'column'
   },
-
+  container2:{
+    backgroundColor:Colors.blanc,
+  },
   texthome:{
     fontSize: 20,
     color: Colors.blanc,
@@ -40,6 +42,14 @@ const Styles = StyleSheet.create({
   myicons:{
     color: Colors.vert,
     fontSize: 115,
+  },
+  navBar:{
+    backgroundColor: Colors.vert,
+  },
+  titleStyle:{
+    color: Colors.blanc,
+    fontWeight:'bold',
+    textAlign: 'center'
   },
 })
 
