@@ -1,11 +1,10 @@
 import React, {Component} from 'react';
 import {Container, Text} from 'native-base'
-import Styles from '../styles/Styles'
-export default class Notes extends Component {
+export default class Forums extends Component {
 
   render() {
     return (
-      <Container style={Styles.container2}>
+      <Container>
         <Text>Notes</Text>
       </Container>
     );
